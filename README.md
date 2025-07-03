@@ -15,7 +15,8 @@
 3. **Indent the HTML Code**
    - Open the HTML files in your text editor and properly indent the code for improved readability.
 
-4. **Commit and Push Changes**
+4. **Commit and 
+ Changes**
    - After making your changes, commit them with a descriptive message:
      ```bash
      git add .
